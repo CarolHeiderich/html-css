@@ -12,8 +12,6 @@
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: 'Passion One', cursive;
     --fonte3: 'Sriracha', cursive;
-
-   
   }
 
 * {
@@ -33,8 +31,7 @@ header{
     background-color: black;
     color: white;
     text-align: center;
-    
-
+   
 }
 
  header > h1{
@@ -43,7 +40,6 @@ header{
     font-family: var(--fonte2);
     font-size: 10vw;
     
-
  }
 
  header > p {
